@@ -19,7 +19,7 @@ omarchy theme set engineer-dark
 
 ## Palette
 
-Kanagawa-inspired dark palette defined in `colors.toml`:
+Kanagawa **Wave**-inspired palette defined in `colors.toml` (Omarchy color roles mapped from Kanagawa palette colors):
 
 | Role | Color |
 | --- | --- |
@@ -29,7 +29,7 @@ Kanagawa-inspired dark palette defined in `colors.toml`:
 | Selection | `#2d4f67` |
 | Muted | `#727169` |
 
-Omarchy generates application themes from `colors.toml`.
+Omarchy generates application themes from `colors.toml`. All primary/bright color slots in `colors.toml` are mapped from Kanagawa colors (e.g. `autumnRed`/`samuraiRed`, `crystalBlue`/`springBlue`, `autumnGreen`/`springGreen`, `waveAqua1`/`waveAqua2`, `oniViolet`/`springViolet1`, etc.).
 
 ## Backgrounds
 
